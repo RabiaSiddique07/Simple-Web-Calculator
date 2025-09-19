@@ -3,6 +3,7 @@ let buttons = document.querySelectorAll('button')
 
 let string = ''
 
+// code for addition, substraction, multiplication, and division
 buttons.forEach(element => {
     element.addEventListener('click', (b)=>{
         if(b.target.innerText == '='){
