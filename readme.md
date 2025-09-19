@@ -5,14 +5,14 @@ This project demonstrates basic DOM manipulation and event handling in JavaScrip
 
 ---
 
-## 🚀 Features
+## Features
 - Perform basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
 - Clear and reset functionality
 - Lightweight and simple
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 Simple-Web-Calculator/
 │── index.html   # Main HTML file
@@ -22,7 +22,7 @@ Simple-Web-Calculator/
 
 ---
 
-## 💻 How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/RabiaSiddique07/Simple-Web-Calculator.git
@@ -31,19 +31,19 @@ Simple-Web-Calculator/
 
 ---
 
-## 🖼️ Demo
+## Demo
 👉 [Live Demo](https://RabiaSiddique07.github.io/Simple-Web-Calculator/)  
 
 
 
 ---
 
-## 📸 Screenshot
+## Screenshot
 ![Calculator Screenshot](screenshot.png)  
 
 
 ---
 
-## 📜 License
+## License
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project for personal and commercial purposes.
