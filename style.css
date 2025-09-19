@@ -47,7 +47,6 @@ button{
     border-radius: 50%;
     box-shadow: -5px -6px 15px rgb(119, 113, 113);
     cursor: pointer;
-    /* padding: 40px; */
 }
 
 button:active{
